@@ -3,6 +3,68 @@ body {
     background: url('./img/IMG_1224.JPG');
     background-size: cover;
 }
+.page1 {
+    background: #bba5d3;
+    font-size: 15px;
+    border-radius: 5px;
+    color: #202020;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 418px;
+    padding: 10px;
+    box-shadow: 0 0 10px rgb(190,190,190);
+    margin-top: 30px;
+}
+.page2 {
+    background: #6ea0dd;
+    font-size: 15px;
+    border-radius: 5px;
+    color: #202020;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 10px;
+    padding: 10px;
+    box-shadow: 0 0 10px rgb(190,190,190);
+}
+.page3 {
+    background: #9fdeb1;
+    font-size: 15px;
+    border-radius: 5px;
+    color: #202020;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 10px;
+    padding: 10px;
+    box-shadow: 0 0 10px rgb(190,190,190);
+}
+.page4 {
+    background: #fee4a9;
+    font-size: 15px;
+    border-radius: 5px;
+    color: #202020;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 10px;
+    padding: 10px;
+    box-shadow: 0 0 10px rgb(190,190,190);
+}
+.page5 {
+    background: #ffad96;
+    font-size: 15px;
+    border-radius: 5px;
+    color: #202020;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 10px;
+    padding: 10px;
+    box-shadow: 0 0 10px rgb(190,190,190);
+}
+.page6 {
+    background: #f26d6e;
+    font-size: 15px;
+    border-radius: 5px;
+    color: #202020;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 10px;
+    line-height: 45px;
+    padding: 10px;
+    box-shadow: 0 0 10px rgb(190,190,190);
+}
 header {
     display: flex;
     background: #f9b98e;
@@ -29,7 +91,7 @@ header {
     align-items: center;
 }
 .box {
-    margin-top: 50px;  
+    margin-top: 20px;  
     background: #f6eee0;
     width: 600px;
     text-align: center;
@@ -40,10 +102,6 @@ header {
     width: 152px;
     height: 200px;
     margin-top: -40px;
-    opacity: 0.95;
-}
-.box:hover .profile {
-    opacity: 1;
 }
 .text {
     margin-top: 10px;
